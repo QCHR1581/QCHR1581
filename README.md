@@ -1,11 +1,13 @@
 <h1 align="center">Hi , I'm Christopher</h1>
-<h3 align="center">A 42Vienna student and Junior IT Administrator</h3>
+<h3 align="center">42Vienna student and Junior IT Administrator</h3>
 
 - 🔭 I’m currently working on [push_swap](https://github.com/QCHR1581/push_swap)
 
 - 👨‍💻 All of my projects are available at [https://github.com/QCHR1581](https://github.com/QCHR1581)
 
 - 📫 How to reach me **lux.christopher.a@gmail.com**
+
+[![chasling's 42 stats](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/stats?cursusId=21&coalitionId=251)](https://github.com/JaeSeoKim/badge42)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
