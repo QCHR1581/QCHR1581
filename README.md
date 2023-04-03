@@ -20,6 +20,7 @@ Born2beroot: [![chasling's 42 Born2beroot Score](https://badge42.vercel.app/api/
 minitalk: [![chasling's 42 minitalk Score](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/project/2955460)](https://github.com/JaeSeoKim/badge42)
 
 so_long [![chasling's 42 so_long Score](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/project/3023582)](https://github.com/JaeSeoKim/badge42)
+
 Exam Rank 02: [![chasling's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/project/2956579)](https://github.com/JaeSeoKim/badge42)
 
 <h3 align="left">Languages and Tools:</h3>
