@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Christopher</h1>
 <h3 align="center">42Vienna student and Junior IT Administrator</h3>
 
-- 🔭 I’m currently working on [push_swap](https://github.com/QCHR1581/push_swap)
+- 🌱 I’m currently learning C!
 
 - 👨‍💻 All of my projects are available at [https://github.com/QCHR1581](https://github.com/QCHR1581)
 
