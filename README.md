@@ -9,6 +9,8 @@
 
 [![chasling's 42 stats](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/stats?cursusId=21&coalitionId=251)](https://github.com/JaeSeoKim/badge42)
 
+push_swap: [![chasling's 42 push_swap Score](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/project/3054795)](https://github.com/JaeSeoKim/badge42)
+
 Exam Rank 02: [![chasling's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/project/2956579)](https://github.com/JaeSeoKim/badge42)
 
 so_long [![chasling's 42 so_long Score](https://badge42.vercel.app/api/v2/clfpq11zv000608lepl483bto/project/3023582)](https://github.com/JaeSeoKim/badge42)
