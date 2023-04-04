@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning C!
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/QCHR1581?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/QCHR1581?tab=repositories)!
 
 - 📫 How to reach me **lux.christopher.a@gmail.com**
 
