@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Christopher</h1>
-<h3 align="center">42Vienna Student and Junior IT Administrator</h3>
+<h3 align="center">42Vienna Student</h3>
 
 - 🌱 I’m currently learning C!
 
